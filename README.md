@@ -37,7 +37,7 @@
     </div>
     </br>
     <div align=center>
-    <h1>🛠️ My Skills</h1>
+<!--     <h1>🛠️ My Skills</h1> -->
 </br>
 
 
