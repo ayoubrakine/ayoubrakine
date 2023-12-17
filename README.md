@@ -114,11 +114,11 @@
 ## 📄📜 Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=NejmeddineAbdellah&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ayoubrakine&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NejmeddineAbdellah"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubrakine"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejmeddineAbdellah&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubrakine&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
      
   </td>
@@ -175,7 +175,7 @@
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NejmeddineAbdellah}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ayoubrakine}/count.svg" /></p> 
 <br>
 </div>
 
