@@ -10,7 +10,7 @@
             <a href="https://linkedin.com/in/ayoubrakine](https://www.linkedin.com/in/ayoub-rakine-112220249">
                 <img alt="LinkedIn" title="Ayoub Rakine" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
             </a>
-            <a href="mailto:ayoubrrakine@gmail.com?subject=Github%20Contact&body=Hi%20SalahEddine,">
+            <a href="mailto:ayoubrrakine@gmail.com?subject=Github%20Contact&body=Hi%20Ayoub Rakine,">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
             </a>
         </p>
