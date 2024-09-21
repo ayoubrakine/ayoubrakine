@@ -30,7 +30,7 @@
     <div align=center>
         <p>
             <strong>
-               I'm 4 Years software engineer with experience in software development, specializing in object-oriented programming. I've worked on the development of multi-tier distributed enterprise applications using Java and various web technologies, while following the Software Development Life Cycle. My expertise also extends to full-stack web and mobile app development, as well as microservices.
+               Currently pursuing a Master's degree in Cyber Defense and Information Security at INSA Hauts-de-France, I am also in my fifth year of engineering in Computer Science and Emerging Technologies at the National School of Applied Sciences of El Jadida as part of a dual degree program. Passionate about the protection of information systems in an increasingly interconnected environment, I have strong experience in full-stack development and Big Data BI.
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
         </p>
