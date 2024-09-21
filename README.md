@@ -3,7 +3,7 @@
 <p align=center>
             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
         </p>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&center=true&vCenter=true&width=672&height=55&lines=Hi+there+I+am+Ayoub+RAKINE;Cybersecurity++|++Software+Engineer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=30&center=true&vCenter=true&width=672&height=55&lines=Hi+there+I+am+RAKINE+Ayoub;Cybersecurity++|++Software+Engineer;" alt="Headline" />
     </div>
     <div align=center>
         <p align=center>
